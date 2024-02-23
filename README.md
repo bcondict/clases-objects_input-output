@@ -7,7 +7,7 @@
 
 ## Requirements
 
-- The usage of any external help is not allowed, wich include othes help, any LLM such as chatGPT, copilot among others.
+- The usage of any external help is not allowed, wich include: others help, any LLM such as chatGPT, copilot, etc.
 - The concepts are the topics covered in past 2 weeks
 - You can use google but you can not look for the exact solution for the proposed problem
 - Clone this repository and create a branch with your name
