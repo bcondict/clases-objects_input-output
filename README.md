@@ -30,6 +30,7 @@
 ## Questions
 
 1. What is a class in Python?
+
    a. A function that creates objects
 
    b. A blueprint for creating objects
@@ -39,6 +40,7 @@
    d. A module for storing functions
 
 2. Which of the following is the correct way to define a class in Python?
+
    a. `class MyClass()`
 
    b. `def MyClass:`
@@ -48,6 +50,7 @@
    d. `MyClass class:`
 
 3. What is an instance variable in Python?
+
    a. A variable that is shared across all instances of a class
 
    b. A variable that is defined outside of a class
@@ -57,6 +60,7 @@
    d. A variable that cannot be changed
 
 4. What does the `__init__` method do in a class?
+
    a. Initializes the server connection
 
    b. Acts as the constructor for a class
@@ -66,6 +70,7 @@
    d. Initializes static variables
 
 5. Which of the following is true about class variables in Python?
+
    a. They are variables defined within a method
 
    b. They are unique to each instance
@@ -75,6 +80,7 @@
    d. They cannot be modified
 
 6. How do you access a class variable from inside the class?
+
    a. `self.variable_name`
 
    b. `cls.variable_name`
@@ -84,6 +90,7 @@
    d. `Both A and B are correct`
 
 7. What is the purpose of the `self` keyword in Python classes?
+
    a. To refer to the class itself
 
    b. To initialize variables
