@@ -74,7 +74,8 @@
 ---
 
 8. Basic Class Definition and Instantiation
-   Define a class named Book with an `__init__` method that initializes two attributes: `title` and `author`. Then, create an instance of `Book` with the title "Python Basics" and the author "John Doe".
+
+Define a class named Book with an `__init__` method that initializes two attributes: `title` and `author`. Then, create an instance of `Book` with the title "Python Basics" and the author "John Doe".
 
 ---
 
