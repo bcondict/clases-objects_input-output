@@ -71,17 +71,23 @@
    c. To refer to the instance of the class
    d. To declare static methods
 
-8. Basic Class Definition and Instantiation
+---
 
-Define a class named Book with an `__init__` method that initializes two attributes: `title` and `author`. Then, create an instance of `Book` with the title "Python Basics" and the author "John Doe".
+8. Basic Class Definition and Instantiation
+   Define a class named Book with an `__init__` method that initializes two attributes: `title` and `author`. Then, create an instance of `Book` with the title "Python Basics" and the author "John Doe".
+
+---
 
 9. Adding Methods to a Class
 
 Copy the last solution. Add a method `describe_book` to the `Book` class that prints out a description of the book in the format: `"Title: [title], Author: [author]"`. Call this method on the instance you created in Exercise 1.
 
-10. Input/Output Manipulation
+---
 
-Write a Python script that asks the user to enter a book title and author, creates an instance of the `Book` class with these values, and then calls the `describe_book` method to print the book's details.
+10. Input/Output Manipulation
+    Write a Python script that asks the user to enter a book title and author, creates an instance of the `Book` class with these values, and then calls the `describe_book` method to print the book's details.
+
+---
 
 11. File Input/Output with Classes
     Create a class named `FileManager` that has the following methods:
